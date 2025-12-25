@@ -31,4 +31,4 @@ The purpose of this project is to practice fetching and displaying real-time dat
 
 🚀 Live Demo
 
-(Add your live website URL here if hosted via GitHub Pages or other hosting service)
+( https://imdad123-boop.github.io/movi_search_website-/)
